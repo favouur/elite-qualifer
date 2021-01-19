@@ -1,7 +1,7 @@
 from textblob import Textblob
 
 file=open ("1.txt,r+")
-a= file 1.read()
+a= file 1.read() hi abby
 
 print("original text : ",+str(a))
 
