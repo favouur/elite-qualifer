@@ -13,3 +13,4 @@ file1.close()
 d=open ("1.txt","w")
 d.write(str(b.correct()))
 d.close()
+hello hello!
